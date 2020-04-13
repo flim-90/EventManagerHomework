@@ -1,0 +1,9 @@
+1 pagina di login -- login.php se già presenti i dati- default index 
+
+2 pagina di index (dashboard)  se già presenti i dati di login -pagina iniziale
+
+	header - 
+		navbar -
+	footer.
+
+3 pagina form inserimento eventi / pagina di modifica 
